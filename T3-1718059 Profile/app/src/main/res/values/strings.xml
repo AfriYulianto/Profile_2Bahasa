@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="asal" >Pasuruan, East Java, Indonesia</string>
+    <string name="post">Posts</string>
+    <string name="pengikut">Followers</string>
+    <string name="mengikuti">Following</string>
+    <string name="deskripsi">My name is Afri Dwi Yulianto. I was the first child of 2 siblings. Born on July 19, 1998. I live with both parents. Now I am studying at the National Institute of Technology Malang majoring in Informatics Engineering.</string>
+</resources>

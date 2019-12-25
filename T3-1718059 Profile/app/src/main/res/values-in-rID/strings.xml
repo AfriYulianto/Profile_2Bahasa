@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Profil Saya</string>
+    <string name="asal" >Pasuruan, Jawa Timur, Indonesia</string>
+    <string name="post">Postingan</string>
+    <string name="pengikut">Pengikut</string>
+    <string name="mengikuti">Mengikuti</string>
+    <string name="deskripsi">Nama Saya Afri Dwi Yulianto. Saya adalah anak pertama dari 2 bersaudara. Lahir pada tanggal 19 Juli 1998. Saya tinggal bersama kedua orang tua. Sekarang Saya sedang menempuh pendidikan di perguruan tinggi Institut Teknologi Nasional Malang jurusan Teknik Informatika.</string>
+</resources>
